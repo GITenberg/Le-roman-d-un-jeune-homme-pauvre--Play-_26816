@@ -1,0 +1,28 @@
+_repo: Le-roman-d-un-jeune-homme-pauvre--Play-_26816
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Feuillet, Octave
+    birthdate: 1821
+    deathdate: 1890
+    gutenberg_agent_id: '1342'
+    url: http://www.gutenberg.org/2009/agents/1342
+    wikipedia: http://en.wikipedia.org/wiki/Octave_Feuillet
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2008-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26816'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French drama -- 19th century'
+- !lcc 'PQ'
+title: Le roman d'un jeune homme pauvre (Play)
+url: http://www.gutenberg.org/ebooks/26816
